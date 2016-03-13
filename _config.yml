@@ -1,0 +1,28 @@
+name: Tim Goodchild
+favicon: null
+layout_spectrum: 0.8661832748912275
+typography_spectrum: 0.4837732412852347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5149209646042436
+  lightness: 0.9213880992028862
+  saturation: 0.7441871201153845
+  rhythmicContrast: 0.9343022834509611
+purpose: []
